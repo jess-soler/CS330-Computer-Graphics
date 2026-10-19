@@ -1,0 +1,16 @@
+.vs/
+**/.vs/
+*.user
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.tlog
+*.log
+Projects/CS330_FinalProject_JSoler/7-1_Fina*/
+Projects/CS330_FinalProject_JSoler/Debug/*
+!Projects/CS330_FinalProject_JSoler/Debug/*.exe
+!Projects/CS330_FinalProject_JSoler/Debug/*.dll
+Projects/CS330_FinalProject_JSoler/Release/*
+!Projects/CS330_FinalProject_JSoler/Release/*.exe
+!Projects/CS330_FinalProject_JSoler/Release/*.dll
