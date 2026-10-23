@@ -1,7 +1,8 @@
 <img width="998" height="850" alt="Screenshot 2026-10-18 223645" src="https://github.com/user-attachments/assets/21af1bee-faaa-4d92-8c5e-5d0b85d30377" />
 
 # How do I approach designing software?
-I approach designing software by first understanding what the program needs to do and who will use it.  I identify the required functionality, break the larger problems into smaller components, and plan how those components will work together.  Depending on the project, I create design artifacts such as pseudocode, flowcharts, class diagrams, and use case diagrams to work through the logic.  I also apply design patterns when they provide a useful structure.  As I develop a program, I take an iterative approach by testing each small change as I go.  The type of testing depends on the project.  I often run the program to check its behavior, revisit existing features after changes, and evaluate usability and efficiency.  When performance matters, I consider the time and space complexity of my algorithms using Big O notation.  When a project calls for more structured testing, I may also use unit, integration, or system testing.  Before delivering a program, I review it against the requirements, complete a final test, and provide documentation and files needed to run it.  If I receive feedback or find a problem later, I use that to guide the next revision.
+I approach designing software by first understanding what the program needs to do and who will use it.  I identify the required functionality, break the larger problems into smaller components, and plan how those components will work together.  Depending on the project, I create design artifacts such as pseudocode, flowcharts, class diagrams, and use case diagrams to work through the logic.  I also apply design patterns when they provide a useful structure.  When performance matters, I consider the time and space complexity of my algorithms using Big O notation.  
+
 
 ### - What new design skills has your work on the project helped you to craft?
 
@@ -15,6 +16,7 @@ Once I understood that foundation, I studied my reference image and broke its ta
 
 
 # How do I approach developing programs?
+As I develop a program, I take an iterative approach by testing each small change as I go.  The type of testing depends on the project.  I often run the program to check its behavior, revisit existing features after changes, and evaluate usability and performance.  When a project calls for more structured testing, I may also use unit, integration, or system testing.  Before delivering a program, I review it against the requirements, complete a final test, and provide documentation and files needed to run it.  If I receive feedback or find a problem later, I use that to guide the next revision.
 
 ### - What new development strategies did you use while working on your 3D scene?
 
